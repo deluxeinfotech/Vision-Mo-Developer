@@ -1,5 +1,5 @@
 {
-   "app_stop":"1",
+   "app_stop":"0",
    "splash_inter":"1",
    "app_redirectOtherAppStatus":"0",
    "app_newPackageName":"",
@@ -19,7 +19,7 @@
    "Admob_Interstitial":"/6499/example/interstitial",
    "Admob_Native":"/6499/example/native",
    "AppOpen":"ca-app-pub-3940256099942544/3419835294",
-   "topon_showStatus":"1",
+   "topon_showStatus":"0",
    "topon_appid":"a64702dc9544e4",
    "topon_appkey":"704e0c695c3e5c8cf661a5611b4d141a",
    "topon_banner":"",
@@ -33,8 +33,8 @@
    "FB_inter2":"",
    "FB_native":"",
    "FB_nativebanner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-   "Applovin":"0",
-   "Applovin_Banner":"APPLOVIN TEST ID",
-   "Applovin_inter":"APPLOVIN TEST ID",
-   "Applovin_Native":"APPLOVIN TEST ID"
+   "Applovin":"1",
+   "Applovin_Banner":"677bd26f244fe8df",
+   "Applovin_inter":"6d769c8bcb49f749",
+   "Applovin_Native":"9f5bd5b37d434ef8"
 }
